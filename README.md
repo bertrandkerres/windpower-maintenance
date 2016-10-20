@@ -2,7 +2,9 @@
 
 How to use this:
 Set up the wind turbine components using the function InitTurbine().
+
 Define the strategies by inheriting from the Technician class, and using an instance of the class as serviceteam.
+
 Run the strategies using Run_Strategies.m
 
 Known issues:
